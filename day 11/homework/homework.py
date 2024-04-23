@@ -1,0 +1,8 @@
+user_input1 = str(input("write a string: "))
+user_input2 = int(input("write a integer: "))
+user_input3 = float(input("write a float: "))
+user_input4 = bool(input("write a  boolean"))
+print(type(user_input1))
+print(type(user_input2))
+print(type(user_input3))
+print(type(user_input4))
